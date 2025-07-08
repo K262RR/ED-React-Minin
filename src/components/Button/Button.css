@@ -7,10 +7,14 @@
   cursor: pointer;
 }
 
+.button.active {
+  background-color: violet;
+}
+
 .button:hover {
   background-color: #333;
 }
 
 .button:active {
-  background-color: #666;
+  background-color: #76d457;
 }

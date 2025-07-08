@@ -1,4 +1,4 @@
-export default function WayToLearn({ way }) {
+export default function WayToLearn(way) {
   return (
     <li>
       <p>
